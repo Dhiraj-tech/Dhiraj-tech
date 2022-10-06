@@ -1,2 +1,1 @@
-![Blue Abstract Simple Typographic Facebook Cover](https://user-images.githubusercontent.com/60218226/186946580-c17f922f-b2c2-4e94-a045-7120762759da.png)
-
+![Blue Abstract Simple Typographic Github Profile](https://user-images.githubusercontent.com/60218226/194296149-fb505e4d-da38-41f1-bd70-9ed22771e17d.png)
