@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhirajrayofficial@gmail.com**
 
-- 📄 Know about my experiences [https://www.dhirajray.com.np/assets/Dhiraj%20Kumar%20Ray-CV.pdf](https://www.dhirajray.com.np/assets/Dhiraj%20Kumar%20Ray-CV.pdf)
+- 📄 Know about my experiences [https://www.dhirajray.com.np/assets/Dhiraj%20Kumar%20Ray-CV.pdf](https://www.dhirajray.com.np/assets/Dhiraj-Kumar-Ray-CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; flex-direction: column; gap: 18px; align-items: flex-start;">
