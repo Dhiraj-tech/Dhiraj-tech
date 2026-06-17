@@ -1,60 +1,81 @@
-<h1 align="center">Hi 👋, I'm Dhiraj Kumar Ray</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/dhirajray4321" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajray4321?logo=twitter&style=for-the-badge" alt="dhirajray4321" /></a> </p>
+# Hi 👋, I'm Dhiraj Kumar Ray
 
-- 🌱 I’m currently learning MERN Stack **Reactjs, NodeJs, ExpressJs, MongoDB, NextJs**
+### Software Engineer | Full Stack Developer 🇳🇵
 
-- 👨‍💻 All of my projects are available at [https://www.dhirajray.com.np/](https://www.dhirajray.com.np/)
-
-- 📫 How to reach me **dhirajrayofficial@gmail.com**
-
-- 📄 Know about my experiences [https://www.dhirajray.com.np/assets/Dhiraj%20Kumar%20Ray-CV.pdf](https://www.dhirajray.com.np/assets/Dhiraj-Kumar-Ray-CV.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<div style="display: flex; flex-direction: column; gap: 18px; align-items: flex-start;">
-
-  <a href="https://twitter.com/dhirajray4321" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
-  </a>
-
-  <a href="https://linkedin.com/in/dhiraj-ray-9224031ab/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
-
-  <a href="https://instagram.com/ray_dhirajofficial" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=4F8CC9&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies"/>
 
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-direction: column; gap: 18px; align-items: flex-start;">
+---
 
-  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.photoshop.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
+## 👨‍💻 About Me
+
+* 🌱 Currently learning **MERN Stack (React, Node.js, Express.js, MongoDB) & Next.js**
+
+* 👨‍💻 Portfolio: **https://www.dhirajray.com.np/**
+
+* 📄 Resume: **https://www.dhirajray.com.np/assets/Dhiraj-Kumar-Ray-CV.pdf**
+
+* 📫 Reach me at: **[dhirajrayofficial@gmail.com](mailto:dhirajrayofficial@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://twitter.com/dhirajray4321">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://linkedin.com/in/dhiraj-ray-9224031ab">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/ray_dhirajofficial">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,redux,tailwind,bootstrap,python,java,django,flutter,dart,git,figma,postman,arduino,ps,ai" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center-left">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhiraj-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dhiraj-tech&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👨‍💻
 
 </div>
